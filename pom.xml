@@ -19,6 +19,11 @@
     <module>pipelines</module>
     <module>examples</module>
     <module>cli</module>
+    <module>temporal</module>
+    <module>gbif</module>
+    <module>ala</module>
+      <module>pipelines</module>
+    <module>sdks</module>
   </modules>
 
   <name>Pipelines :: Parent</name>
